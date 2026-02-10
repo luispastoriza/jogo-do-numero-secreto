@@ -4,7 +4,7 @@ Jogo simples desenvolvido em JavaScript que sorteia um número aleatório e o us
 ## Funcionalidades
 - Sortear número aleatório
 - Verificar respostas do usuário e dar feedbacks
-- Após a resposta correta da parabéns e oferece opção de reset
+- Possui a biblioteca ResponsiveVoice.js para adicionar feedback em áudio, tornando a experiência mais interativa
 
 ## Tecnologias
 - HTML
